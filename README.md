@@ -3,7 +3,7 @@
 
 ## :rocket: Curso - Aprenda SharePoint do zero com foco no negócio
 <p align="center">
-<a href="https://www.udemy.com/course/aprenda-sharepoint-do-zero-com-foco-no-negocio/?referralCode=34B700C89A7463BD0A00">
+<a href="https://www.udemy.com/course/aprenda-sharepoint-do-zero-com-foco-no-negocio/?couponCode=7E4B1ED074FD0F9BC8F6">
   <img src="assets/Aprenda SharePoint do zero com foco no negócio - Saulo Oliveira.png" align="center"></img></a>
 </p>
 
